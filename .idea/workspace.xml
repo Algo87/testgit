@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="32a87716-4fae-4d4c-b0d0-dd3084a28cf1" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1NaOk4ZpWk2oYcZtmijhC0c2dfq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\work\testgit\app" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32a87716-4fae-4d4c-b0d0-dd3084a28cf1" name="Default Changelist" comment="" />
+      <created>1562315881222</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562315881222</updated>
+      <workItem from="1562315883786" duration="9171000" />
+    </task>
+    <task id="LOCAL-00001" summary="creare a project">
+      <created>1562317141482</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1562317141482</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added file">
+      <created>1562318012819</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1562318012819</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added file for begin">
+      <created>1562319233350</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1562319233350</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added file for begin">
+      <created>1562319816035</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1562319816035</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added gulpfile">
+      <created>1562320073043</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1562320073043</updated>
+    </task>
+    <task id="LOCAL-00006" summary="change in test1 p">
+      <created>1562328278115</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1562328278115</updated>
+    </task>
+    <task id="LOCAL-00007" summary="change in test1 p">
+      <created>1562328478603</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1562328478603</updated>
+    </task>
+    <task id="LOCAL-00008" summary="change in masrer">
+      <created>1562328555726</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1562328555726</updated>
+    </task>
+    <task id="LOCAL-00009" summary="change in test1">
+      <created>1562328611478</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1562328611478</updated>
+    </task>
+    <task id="LOCAL-00010" summary="change2 in test1">
+      <created>1562329584910</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1562329584910</updated>
+    </task>
+    <task id="LOCAL-00011" summary="change3 in test1">
+      <created>1562329616068</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1562329616068</updated>
+    </task>
+    <task id="LOCAL-00012" summary="change4 in test1">
+      <created>1562329639299</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1562329639299</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="creare a project" />
+    <MESSAGE value="added file" />
+    <MESSAGE value="added file for begin" />
+    <MESSAGE value="added gulpfile" />
+    <MESSAGE value="change in test1 p" />
+    <MESSAGE value="change in masrer" />
+    <MESSAGE value="change in test1" />
+    <MESSAGE value="change2 in test1" />
+    <MESSAGE value="change3 in test1" />
+    <MESSAGE value="change4 in test1" />
+    <option name="LAST_COMMIT_MESSAGE" value="change4 in test1" />
+  </component>
+</project>
